@@ -1,0 +1,14 @@
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\bin\Debug\net8.0\C#BeginnerPractice.exe
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\bin\Debug\net8.0\C#BeginnerPractice.deps.json
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\bin\Debug\net8.0\C#BeginnerPractice.runtimeconfig.json
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\bin\Debug\net8.0\C#BeginnerPractice.dll
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\bin\Debug\net8.0\C#BeginnerPractice.pdb
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\obj\Debug\net8.0\C#BeginnerPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\obj\Debug\net8.0\C#BeginnerPractice.AssemblyInfoInputs.cache
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\obj\Debug\net8.0\C#BeginnerPractice.AssemblyInfo.cs
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\obj\Debug\net8.0\C#BeginnerPractice.csproj.CoreCompileInputs.cache
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\obj\Debug\net8.0\C#BeginnerPractice.dll
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\obj\Debug\net8.0\refint\C#BeginnerPractice.dll
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\obj\Debug\net8.0\C#BeginnerPractice.pdb
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\obj\Debug\net8.0\C#BeginnerPractice.genruntimeconfig.cache
+C:\Users\FOdra\Documents\GitHub\C#\C#BeginnerPractice\obj\Debug\net8.0\ref\C#BeginnerPractice.dll
